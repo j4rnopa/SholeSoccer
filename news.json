@@ -1,5 +1,16 @@
+
+
 {
-  "news_title": "Welcome to Version 1.0!",
-  "news_content": "Thank you for playing Shole Soccer! If you encounter any bugs, please report them at Discord #Bug-reports",
-  "news_date": "24/06/2026"
+  "all_news": [
+    {
+    "news_title": "Welcome to Version 1.0!",
+    "news_content": "Thank you for playing Shole Soccer!\n If you encounter any bugs, please report them at Discord #Bug-reports",
+    "news_date": "24/06/2026"
+    },
+    {
+      "news_title": "Blanky Blank",
+      "news_content": "- Blaan\n- Blaa Blaa",
+      "news_date": "18/06/2026"
+    }
+  ]
 }
